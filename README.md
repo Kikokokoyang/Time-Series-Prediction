@@ -1,1 +1,1 @@
-含ARIMA全流程操作，PDF中是ARIMA的学习笔记，jupyter notebook中包括绘制时间序列图、时间序列分解、白噪声检验、ADF平稳性检验、使用ADF平稳性检验判断差分d的取值、ACF和PACF图绘制判断阶数、使用AIC/BIC判断最优参数组合、使用最优ARIMA进行预测、模型评估（残差）。所用数据也以给出
+含ARIMA全流程操作，PDF中是ARIMA的学习笔记，jupyter notebook中包括绘制时间序列图、时间序列分解、白噪声检验、ADF平稳性检验、使用ADF平稳性检验判断差分d的取值、ACF和PACF图绘制判断阶数、使用AIC/BIC判断最优参数组合、使用最优ARIMA进行预测、模型评估（残差）。所用数据也已给出
